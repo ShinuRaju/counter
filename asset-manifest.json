@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShinuRaju/counter.git/static/css/main.96036c41.chunk.css",
+    "main.js": "/ShinuRaju/counter.git/static/js/main.51d5d96a.chunk.js",
+    "main.js.map": "/ShinuRaju/counter.git/static/js/main.51d5d96a.chunk.js.map",
+    "runtime-main.js": "/ShinuRaju/counter.git/static/js/runtime-main.3435e8f1.js",
+    "runtime-main.js.map": "/ShinuRaju/counter.git/static/js/runtime-main.3435e8f1.js.map",
+    "static/js/2.8f5f9536.chunk.js": "/ShinuRaju/counter.git/static/js/2.8f5f9536.chunk.js",
+    "static/js/2.8f5f9536.chunk.js.map": "/ShinuRaju/counter.git/static/js/2.8f5f9536.chunk.js.map",
+    "static/js/3.383182cf.chunk.js": "/ShinuRaju/counter.git/static/js/3.383182cf.chunk.js",
+    "static/js/3.383182cf.chunk.js.map": "/ShinuRaju/counter.git/static/js/3.383182cf.chunk.js.map",
+    "index.html": "/ShinuRaju/counter.git/index.html",
+    "static/css/main.96036c41.chunk.css.map": "/ShinuRaju/counter.git/static/css/main.96036c41.chunk.css.map",
+    "static/js/2.8f5f9536.chunk.js.LICENSE.txt": "/ShinuRaju/counter.git/static/js/2.8f5f9536.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3435e8f1.js",
+    "static/js/2.8f5f9536.chunk.js",
+    "static/css/main.96036c41.chunk.css",
+    "static/js/main.51d5d96a.chunk.js"
+  ]
+}
